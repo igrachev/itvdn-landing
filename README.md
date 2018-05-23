@@ -31,5 +31,23 @@
 * Запустить команду npm install в терминале, которая установит все пакеты, указанные в файле package.json, а также все их зависимости
 
 
+## Домашнее задание
+1. Git - знать команды:
+- git status
+- git add
+- git commit -m "some comment"
+- git push
+- git branch
+- git checkout
+- git merge
+
+2. Gulp 
+- попрактиковаться с установкой галпа и его пакетов
+- autoprefixer и sourcemaps => Разобратьсся что это и установить в проект
+
+
+
+
+
 
 
