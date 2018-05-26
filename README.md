@@ -46,6 +46,13 @@
 - git checkout
 - git merge
 
+Типичный набор команд:
+> git status
+> git add .
+> git commit -m "Здесь комментарий к коммиту"
+> git push origin lesson-5
+(в последней команде (push) lesson-5 - это ветка, в которую мы пушим исходники)
+
 2. Gulp 
 - попрактиковаться с установкой галпа и его пакетов
 - autoprefixer и sourcemaps => Разобратьсся что это и установить в проект
