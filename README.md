@@ -47,10 +47,18 @@
 - git merge
 
 Типичный набор команд:
+> git branch lesson-5
+
+> git checkout lesson-5
+
 > git status
+
 > git add .
+
 > git commit -m "Здесь комментарий к коммиту"
+
 > git push origin lesson-5
+
 (в последней команде (push) lesson-5 - это ветка, в которую мы пушим исходники)
 
 2. Gulp 
